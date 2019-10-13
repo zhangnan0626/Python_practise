@@ -1,0 +1,2 @@
+import tensorflow as tf
+ax=tf.placeholder(tf.float32,[None,1])
